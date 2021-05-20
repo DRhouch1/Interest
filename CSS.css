@@ -17,11 +17,17 @@ text-align: center;
 h3 {
 font-family: Arial;
 color: black;
-text-align: center;
+text-align: left;
 }
 
 h4 {
 font-family: Arial;
 color: black;
-text-align: center;
+text-align: left;
+}
+
+h5 {
+font-family: Arial;
+color: black;
+text-align: left;
 }
