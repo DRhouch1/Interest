@@ -3,15 +3,19 @@ background-color: White
 }
 
 h1 {
-font-family: Arial:
+font-family: Arial;
 color: white;
 text-align: center;
 }
 
 h2 {
-font-family: Arial:
+font-family: Arial;
 color: black;
 text-align: center;
 }
 
-h3 
+h3 {
+font-family: Arial;
+color: black;
+text-align: center;
+}
