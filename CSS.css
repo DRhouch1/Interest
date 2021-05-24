@@ -1,33 +1,33 @@
 body {
-background-color: White
+background-color: #90C1F5
 }
 
 h1 {
 font-family: Arial;
-color: white;
+color: #000000;
 text-align: center;
 }
 
 h2 {
 font-family: Arial;
-color: black;
+color: #000000;
 text-align: center;
 }
 
 h3 {
 font-family: Arial;
-color: black;
+color: #FFF0F3;
 text-align: left;
 }
 
 h4 {
 font-family: Arial;
-color: black;
+color: #FFF0F3;
 text-align: left;
 }
 
 h5 {
 font-family: Arial;
-color: black;
+color: #FFF0F3;
 text-align: left;
 }
