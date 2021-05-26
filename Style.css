@@ -20,18 +20,21 @@ h3 {
 font-family: Times New Roman;
 color: #FFF0F3;
 text-align: left;
+font-style: italic;
 }
 
 h4 {
 font-family: Times New Roman;
 color: #FFF0F3;
 text-align: left;
+font-style: italic;
 }
 
 h5 {
 font-family: Times New Roman;
 color: #FFF0F3;
 text-align: left;
+font-style: italic
 }
 
 .home {
